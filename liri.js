@@ -8,6 +8,7 @@ var spotify = new Spotify(keys.spotify);
 
 var fs = require("fs");
 
+
 var command = process.argv[2];
 var value = process.argv.slice(3).join("+");
 
