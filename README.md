@@ -15,4 +15,4 @@ Will call the IMBD API and display the details of the movie you searched for.
 
 "do-what-it-says
 
-![Github](image/Pic_Liri.png)
+![](Image/Pic_liri.png)
