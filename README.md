@@ -10,9 +10,23 @@ Setup
 "spotify-this-song" Song
 Will call the Spotify API and return the first result matching the song you entered.
 
-"movie-this" Movie
-Will call the IMBD API and display the details of the movie you searched for.
+
+
+![](image.png)
+
+
+
+
+
+
+
+
+
+
+
+
 
 "do-what-it-says
 
-![](image.png)
+"movie-this" Movie
+Will call the IMBD API and display the details of the movie you searched for.
